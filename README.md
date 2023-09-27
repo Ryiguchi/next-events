@@ -2,7 +2,7 @@
 
 ## Description
 
-A Next.js demo project from a Udemy course.
+A Next.js demo project from a Udemy course by Maximilian Schwarzmüller.
 
 ## Author
 
